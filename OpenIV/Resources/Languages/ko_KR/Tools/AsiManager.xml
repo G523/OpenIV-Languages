@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Translation>
+	<FiveAsiManagerWindow Caption='ASI 매니저 - $AppName$'/>
+	<RenderUI>
+		<string name="TITLE">$RageGAME_SHORT$ - ASI 매니저</string>
+
+		<string name="RPF_NOTE">You need to install ASI Loader and $ModsFolderAsi$ plugin for your $RageGAME_SHORT$, otherwise game will not load modified RPF archive.</string>
+		<string name="ONLINE_NOTE">Do not play $RageGAME_MP$ with modified RPF you will be banned.</string>
+
+		<string name="INSTALL">설치</string>
+		<string name="UPDATE">업데이트</string>
+		<string name="UNINSTALL">삭제</string>
+
+		<string name="NOT_INSTALLED">미설치 상태</string>
+		<string name="UPDATE_REQUIRED">업데이트 필요</string>
+		<string name="INSTALLED">설치 상태</string>
+		<string name="DISABLED">비활성화 상태</string>
+
+		<string name="ASI_LOADER">ASI Loader</string>
+		<string name="ASI_LOADER_DESCRIPTION">ASI Loader is the tool that loads custom libraries with the file extension .asi into the game process.</string>
+
+		<string name="OPENIV_ASI">$ModsFolderAsi$</string>
+		<string name="OPENIV_ASI_DESCRIPTION">This ASI Plugin is allow your game to load modified RPF archives. It is also provides support for $ModsFolder$ folder.</string>
+
+		<string name="OPEN_CAMERA_ASI">openCamera</string>
+		<string name="OPEN_CAMERA_ASI_DESCRIPTION">Enhances "Free Camera" boundary limitations in Rockstar Editor.</string>
+
+		<string name="INSTALLATION_FAILED">설치에 실패했습니다.</string>
+		<string name="INSTALLATION_FAILED_TEXT">설치에 실패했습니다. $AppName$를 껐다 켜시고 다시 시도하십시오.</string>
+
+		<string name="UNINSTALL_FAILED">삭제에 실패했습니다.</string>
+		<string name="UNINSTALL_FAILED_TEXT">삭제에 실패했습니다. $AppName$를 껐다 켜시고 다시 시도하십시오.</string>
+
+		<string name="MODS_FOLDER_TITLE">$ModsFolder$ 폴더를 만드시겠습니까?</string>
+		<string name="MODS_FOLDER_TEXT">The $ModsFolder$ folder allows you to keep all your original game files safe and have easiest one click way to switch between modified and original files.</string>
+		<string name="MODS_FOLDER_EDIT_NOTIFICATION">Show notification while editing archive outside of $ModsFolder$ folder</string>
+		<string name="MODS_FOLDER_EDIT_MODE_CHECK">Allow edit mode only for archives inside $ModsFolder$ folder</string>
+		<string name="MODS_FOLDER_SETTINGS_NOTE">You can change this settings at any time in $AppName$ options.</string>
+		<string name="MODS_FOLDER_LEARN_MORE">$ModsFolder$ 폴더에 대해 더 알아보기</string>
+	</RenderUI>
+</Translation>
